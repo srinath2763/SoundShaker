@@ -13,6 +13,11 @@
 		49FCDB202221F38900DC66D1 /* SoundShaker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 49FCDB1E2221F38900DC66D1 /* SoundShaker.xcdatamodeld */; };
 		49FCDB222221F38B00DC66D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49FCDB212221F38B00DC66D1 /* Assets.xcassets */; };
 		49FCDB252221F38B00DC66D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49FCDB232221F38B00DC66D1 /* LaunchScreen.storyboard */; };
+		49FCDB3D2221F8E200DC66D1 /* Heart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49FCDB382221F8E100DC66D1 /* Heart.mp3 */; };
+		49FCDB3E2221F8E200DC66D1 /* TonyFur.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49FCDB392221F8E100DC66D1 /* TonyFur.mp3 */; };
+		49FCDB3F2221F8E200DC66D1 /* TheDevil.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49FCDB3A2221F8E100DC66D1 /* TheDevil.mp3 */; };
+		49FCDB402221F8E200DC66D1 /* TheCamp.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49FCDB3B2221F8E200DC66D1 /* TheCamp.mp3 */; };
+		49FCDB412221F8E200DC66D1 /* DanBern.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 49FCDB3C2221F8E200DC66D1 /* DanBern.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		49FCDB212221F38B00DC66D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49FCDB242221F38B00DC66D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49FCDB262221F38B00DC66D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49FCDB382221F8E100DC66D1 /* Heart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Heart.mp3; path = ../../../../Documents/Audio_Files/Heart.mp3; sourceTree = "<group>"; };
+		49FCDB392221F8E100DC66D1 /* TonyFur.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TonyFur.mp3; path = ../../../../Documents/Audio_Files/TonyFur.mp3; sourceTree = "<group>"; };
+		49FCDB3A2221F8E100DC66D1 /* TheDevil.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TheDevil.mp3; path = ../../../../Documents/Audio_Files/TheDevil.mp3; sourceTree = "<group>"; };
+		49FCDB3B2221F8E200DC66D1 /* TheCamp.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = TheCamp.mp3; path = ../../../../Documents/Audio_Files/TheCamp.mp3; sourceTree = "<group>"; };
+		49FCDB3C2221F8E200DC66D1 /* DanBern.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = DanBern.mp3; path = ../../../../Documents/Audio_Files/DanBern.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +73,11 @@
 				49FCDB232221F38B00DC66D1 /* LaunchScreen.storyboard */,
 				49FCDB262221F38B00DC66D1 /* Info.plist */,
 				49FCDB1E2221F38900DC66D1 /* SoundShaker.xcdatamodeld */,
+				49FCDB3C2221F8E200DC66D1 /* DanBern.mp3 */,
+				49FCDB382221F8E100DC66D1 /* Heart.mp3 */,
+				49FCDB3B2221F8E200DC66D1 /* TheCamp.mp3 */,
+				49FCDB3A2221F8E100DC66D1 /* TheDevil.mp3 */,
+				49FCDB392221F8E100DC66D1 /* TonyFur.mp3 */,
 			);
 			path = SoundShaker;
 			sourceTree = "<group>";
@@ -127,7 +142,12 @@
 			files = (
 				49FCDB252221F38B00DC66D1 /* LaunchScreen.storyboard in Resources */,
 				49FCDB222221F38B00DC66D1 /* Assets.xcassets in Resources */,
+				49FCDB402221F8E200DC66D1 /* TheCamp.mp3 in Resources */,
+				49FCDB412221F8E200DC66D1 /* DanBern.mp3 in Resources */,
 				49FCDB1D2221F38900DC66D1 /* Main.storyboard in Resources */,
+				49FCDB3E2221F8E200DC66D1 /* TonyFur.mp3 in Resources */,
+				49FCDB3D2221F8E200DC66D1 /* Heart.mp3 in Resources */,
+				49FCDB3F2221F8E200DC66D1 /* TheDevil.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
